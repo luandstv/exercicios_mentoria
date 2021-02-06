@@ -11,3 +11,9 @@ Exercicios para entender os conceitos de display block e inline
 [x] Criar uma div e dentro dela coloque um titulo da imagem, uma imagem e um parágrafo descrevendo a imagem
 
 [x] Crie uma div e dentro dela coloque 1 parágrafo com 3 links, e fora do parágrafo crie uma imagem e após a mesma descreva a imagem usando a tag span
+
+
+## Segundo exercicio
+
+Exercicio para praticar o uso das tags header, nav, list, section, main, footer, aside, links, img, p
+
